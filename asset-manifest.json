@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rejs-cr-web/static/css/main.078ab011.css",
+    "main.js": "/rejs-cr-web/static/js/main.c3f7b2eb.js",
+    "static/media/trade.jpg": "/rejs-cr-web/static/media/trade.bef69824a731f7b69f93.jpg",
+    "static/media/hero-img2.jpg": "/rejs-cr-web/static/media/hero-img2.10aa36196d2f1b95de6d.jpg",
+    "index.html": "/rejs-cr-web/index.html",
+    "main.078ab011.css.map": "/rejs-cr-web/static/css/main.078ab011.css.map",
+    "main.c3f7b2eb.js.map": "/rejs-cr-web/static/js/main.c3f7b2eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.078ab011.css",
+    "static/js/main.c3f7b2eb.js"
+  ]
+}
